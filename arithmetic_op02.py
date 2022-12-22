@@ -6,4 +6,4 @@
 x = 43
 x1 = x%10
 x2 = x//10
-answer(x1+x2)
+print(x1+x2)
