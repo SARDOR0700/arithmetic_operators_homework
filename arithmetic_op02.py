@@ -5,5 +5,5 @@
 #Print the vallue of the 'answer'.
 x = 43
 x1 = x%10
-x2 =x//10
+x2 = x//10
 answer(x1+x2)
